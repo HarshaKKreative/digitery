@@ -1,0 +1,47 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "files.autoSave": "afterDelay",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "cSpell.words": [
+    "Dropleft",
+    "Dropright",
+    "kkreative",
+    "Kondapur",
+    "MDMANAGE",
+    "bootcamp",
+    "chakra",
+    "Harsha",
+    "hihat",
+    "openhat",
+    "paytm",
+    "reduxjs",
+    "telangana",
+    "tink",
+    "Vardhan",
+    "verasni",
+    "welcomepage"
+  ],
+
+  "editor.fontFamily": "\"Fira Code\" ,Consolas, 'Courier New', monospace",
+  "notebook.formatOnSave.enabled": true,
+  "git.enabled": false,
+  "autoimport.showNotifications": true,
+  "autoimport.absolute": true,
+  "autoimport.filesToScan": "**/*.{js,jsx,ts,tsx}",
+  "cSpell.userWords": ["autoimport", "toastify"],
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
